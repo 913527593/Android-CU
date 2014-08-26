@@ -1,0 +1,14 @@
+# Java class files
+*.class
+
+# result files
+*.txt
+
+# generated files
+bin/
+
+# Eclipse project files
+.classpath
+.project
+.metadata
+.settings/
